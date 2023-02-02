@@ -35,7 +35,7 @@ main{
     justify-content: space-between;
 }
 .card1{
-    background-image: url(/images/image-background-card1.jpg);
+    background-image: url(images/image-background-card1.jpg);
     background-size: cover;
     min-height: 250px;
     width: 30%;
@@ -45,7 +45,7 @@ main{
     
 }
 .card2{
-    background-image: url(/images/image-background-card2.jpg);
+    background-image: url(images/image-background-card2.jpg);
     min-height: 250px;
     width: 30%;
     background-position: bottom;
@@ -53,7 +53,7 @@ main{
     border-radius: 22px;
 }
 .card3{
-    background-image: url(/images/image-background-card3.jpg);
+    background-image: url(images/image-background-card3.jpg);
     min-height: 250px;
     width: 30%;
     background-position: bottom;
